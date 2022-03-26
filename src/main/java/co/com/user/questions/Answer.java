@@ -21,9 +21,11 @@ public class Answer implements Question<Boolean> {
         String welcomeTitle= Text.of(Title.WELCOME_TITLE).viewedBy(actor).asString();
         //System.out.println("Inicia Questions ->"+getStrTitle+" <-Termina questions");
         //System.out.println("Inicia Title ->"+welcomeTitle+" <-Termina title");
-        if(getStrTitle.equals(welcomeTitle))
-            return true;
-        else
-            return false;
+        if(getStrTitle.equals(welcomeTitle)){
+            System.out.println("LOS MENSAJES COINCIDEN");
+            return true;}
+        else{
+            System.out.println("LOS MENSAJES NOOO COINCIDEN");
+            return false;}
     }
 }

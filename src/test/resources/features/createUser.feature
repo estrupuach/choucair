@@ -15,4 +15,4 @@
 
       Examples:
         | strFirsName | strLastName | strEmail      | strCity  | strPostalCode | strMobile | strModel | strOperatingSystem | strPassword | strConfPassword |strTitle|
-        | Camilo      |  Cadavid   |m5iliewto@mail.com| Manizales|  170002       |  Apple    | iPhone   |     iOS 2.0        | Prueba1155+ |  Prueba1155+     |Welcome to the world's largest community of freelance software testers!|
+        | Camilo      |  Cadavid   |m5isflissewtdo@mail.com| Manizales|  170002       |  Apple    | iPhone   |     iOS 2.0        | Prueba1155+ |  Prueba1155+     |Welcome to the world's largest community of freelance software testers!|
